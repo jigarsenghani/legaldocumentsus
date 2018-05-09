@@ -1,0 +1,17 @@
+/*
+Theme Name: USLegalForms
+Theme URI: http://uslegalforms.com/
+Author: US Legal, Inc.
+Author URI: https://uslegalforms.com/
+Description: USLegalForms Custom Theme
+Version: 1.6
+Tags: black, blue, gray, red, white, yellow, dark, light, one-column, two-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: uslegalforms
+
+*/
+
+img { -ms-interpolation-mode: bicubic; }
+
+.woocommerce-form-login , .woocommerce form.register {
+	border: none !important;
+}
